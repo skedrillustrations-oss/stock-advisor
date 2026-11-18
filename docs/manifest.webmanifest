@@ -1,0 +1,9 @@
+{
+  "name": "Stock Advisor",
+  "short_name": "Stocks",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07140e",
+  "theme_color": "#07140e",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
