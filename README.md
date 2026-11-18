@@ -11,5 +11,3 @@ Tiers: **High** 75+, **Good** 60 to 74, **Weak** 45 to 59 (watch only). Suggeste
 Setup: see **SETUP-GUIDE.md**.
 
 To test without internet prices: `pip install -r engine/requirements.txt`, then `python engine/analyze.py --sample` (made-up prices, shown with a red SAMPLE DATA banner; it never touches the real track record). Then serve `docs/` with `python -m http.server --directory docs` and open http://localhost:8000.
-# stock-advisor
-Practice stock coach for Egypt and UAE (trial, pretend money, not financial advice)
