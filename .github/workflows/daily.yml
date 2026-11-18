@@ -45,4 +45,5 @@ jobs:
           git add docs/data
           git diff --cached --quiet && echo "Nothing changed" && exit 0
           git commit -m "Evening update $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
