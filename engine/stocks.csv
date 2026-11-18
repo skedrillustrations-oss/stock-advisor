@@ -1,0 +1,47 @@
+symbol,name,market,sector
+COMI,Commercial International Bank,EGX,Banks
+TMGH,Talaat Moustafa Group,EGX,Real estate
+EAST,Eastern Company,EGX,Consumer goods
+FWRY,Fawry,EGX,Technology
+HRHO,EFG Holding,EGX,Financial services
+ETEL,Telecom Egypt,EGX,Telecom
+SWDY,Elsewedy Electric,EGX,Industrial
+ABUK,Abu Qir Fertilizers,EGX,Chemicals
+MFPC,Misr Fertilizers (MOPCO),EGX,Chemicals
+ORAS,Orascom Construction,EGX,Construction
+PHDC,Palm Hills Developments,EGX,Real estate
+HELI,Heliopolis Housing,EGX,Real estate
+JUFO,Juhayna Food Industries,EGX,Food
+CIEB,Credit Agricole Egypt,EGX,Banks
+ESRS,Ezz Steel,EGX,Steel
+AMOC,Alexandria Mineral Oils,EGX,Energy
+EFIH,e-finance,EGX,Technology
+ORWE,Oriental Weavers,EGX,Consumer goods
+CLHO,Cleopatra Hospital,EGX,Healthcare
+EMFD,Emaar Misr,EGX,Real estate
+SKPC,Sidi Kerir Petrochemicals,EGX,Chemicals
+ISPH,Ibnsina Pharma,EGX,Healthcare
+EMAAR,Emaar Properties,DFM,Real estate
+EMIRATESNBD,Emirates NBD,DFM,Banks
+DIB,Dubai Islamic Bank,DFM,Banks
+DEWA,Dubai Electricity and Water,DFM,Utilities
+SALIK,Salik,DFM,Transport
+DU,Emirates Integrated Telecom (du),DFM,Telecom
+AIRARABIA,Air Arabia,DFM,Airlines
+DFM,Dubai Financial Market,DFM,Financial services
+TECOM,TECOM Group,DFM,Real estate
+EMPOWER,Empower,DFM,Utilities
+PARKIN,Parkin,DFM,Transport
+EMAARDEV,Emaar Development,DFM,Real estate
+FAB,First Abu Dhabi Bank,ADX,Banks
+ALDAR,Aldar Properties,ADX,Real estate
+ADNOCGAS,ADNOC Gas,ADX,Energy
+ADNOCDRILL,ADNOC Drilling,ADX,Energy
+ADNOCDIST,ADNOC Distribution,ADX,Energy
+ADCB,Abu Dhabi Commercial Bank,ADX,Banks
+ADIB,Abu Dhabi Islamic Bank,ADX,Banks
+EAND,e& (Etisalat),ADX,Telecom
+IHC,International Holding Company,ADX,Conglomerate
+TAQA,Abu Dhabi National Energy (TAQA),ADX,Utilities
+ADPORTS,AD Ports Group,ADX,Transport
+AGTHIA,Agthia Group,ADX,Food
