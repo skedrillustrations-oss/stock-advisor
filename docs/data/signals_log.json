@@ -246,7 +246,10 @@
    "entry": 3.47,
    "targetPct": 10.2,
    "stopPct": 5.1,
-   "result": "open"
+   "result": "loss",
+   "exit_date": "2026-11-19",
+   "exit_price": 3.293,
+   "ret": -0.051
   },
   {
    "id": "EMPOWER-2026-11-18",
